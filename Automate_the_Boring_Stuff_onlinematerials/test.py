@@ -1,1 +1,1 @@
-print('Hello', 'World', sep=',')
+print('Bye', 'World', sep=',')
