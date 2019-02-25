@@ -20,6 +20,10 @@ def getAnswer(answerNumber):
     elif answerNumber == 9:
         return 'Very doubtful'
 
-r = random.randint(1, 9)
-fortune = getAnswer(r)
-print(fortune)
+# you could shorten these lines of code
+# refer to line 29
+# r = random.randint(1, 9)
+# fortune = getAnswer(r)
+# print(fortune)
+
+print(getAnswer(random.randint(1,9)))
