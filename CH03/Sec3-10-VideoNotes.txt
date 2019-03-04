@@ -18,7 +18,8 @@
 - If there's an assignment statement for a variable in a function,
   that is a local variable.
 - Stating global and then the variable name makes a local variable
-  become a global variable. For example:
+  become a global variable.
+  For example:
   def spam():
     global eggs
     eggs = 'Hello'
