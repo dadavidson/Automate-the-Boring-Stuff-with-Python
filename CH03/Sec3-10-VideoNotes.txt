@@ -21,8 +21,8 @@
   become a global variable. For example:
   def spam():
     global eggs
-	  eggs = 'Hello'
-	  print(eggs)
+    eggs = 'Hello'
+    print(eggs)
 
 eggs = 42
 spam()
