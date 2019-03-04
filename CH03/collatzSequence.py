@@ -27,4 +27,4 @@ print('Please select any number...')
 myNumber = userInput()
 while myNumber != 1:
     myNumber = collatz(myNumber)
-    print(myNumber)
+    print('-', myNumber)
