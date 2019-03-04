@@ -25,6 +25,6 @@ def userInput():
 # Ask the player to guess a number.
 print('Please select any number...')
 myNumber = userInput()
-while myNumber != 0:
+while myNumber != 1:
     myNumber = collatz(myNumber)
     print(myNumber)
