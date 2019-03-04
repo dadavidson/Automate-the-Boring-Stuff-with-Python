@@ -1,0 +1,29 @@
+<#
+::--------------------------------------------------------
+::-- CH03 - Section 3 - Video 10
+::-- Global and Local Scopes
+::--------------------------------------------------------
+#>
+
+- Functions are like a mini-program inside your program.
+- A scope can be thought of as an area of the source code, and as a
+  container of variables.
+- The global scope is code outside of all functions. Variables
+  assigned here are global variables.
+- Each function's code is in its own local scope. Variables assigned
+  here local variables.
+- Code in the global scope cannot use any local variables.
+- Code in a function's local scope cannot use variables in any
+  other function's local scope.
+- If there's an assignment statement for a variable in a function,
+  that is a local variable.
+- Stating global and then the variable name makes a local variable
+  become a global variable. For example:
+  def spam():
+    global eggs
+	  eggs = 'Hello'
+	  print(eggs)
+
+eggs = 42
+spam()
+print(eggs)
