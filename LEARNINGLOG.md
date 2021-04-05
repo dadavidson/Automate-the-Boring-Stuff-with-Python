@@ -15,14 +15,14 @@
 
 ## Part 1 - The Basics of Python Programming
 ### Chapter 1: Python Basics
-- [ ] Entering Expressions into the Interactive Shell
-- [ ] The Integer, Floating-Point, and String Data Types
-- [ ] String Concatenation and Replication
-- [ ] Storing Values in Variables
-- [ ] Your First Program
-- [ ] Dissecting Your Program
-- [ ] Summary
-- [ ] Practice Questions
+- [x] Entering Expressions into the Interactive Shell
+- [x] The Integer, Floating-Point, and String Data Types
+- [x] String Concatenation and Replication
+- [x] Storing Values in Variables
+- [x] Your First Program
+- [x] Dissecting Your Program
+- [x] Summary
+- [x] Practice Questions
 
 ### Chapter 2: Flow Control
 - [ ] Boolean Values
