@@ -1,15 +1,15 @@
 # Learning Log and Table of Contents
 
 ### Chapter 0: Introduction
-- [ ] Whom Is This Book For?
-- [ ] Conventions
-- [ ] What Is Programming?
-- [ ] About This Book
-- [ ] Downloading and Installing Python
-- [ ] Starting IDLE
-- [ ] How to Find Help
-- [ ] Asking Smart Programming Questions
-- [ ] Summary
+- [x] Whom Is This Book For?
+- [x] Conventions
+- [x] What Is Programming?
+- [x] About This Book
+- [x] Downloading and Installing Python
+- [x] Starting IDLE
+- [x] How to Find Help
+- [x] Asking Smart Programming Questions
+- [x] Summary
 
 ------------
 
