@@ -1,222 +1,222 @@
 # Learning Log and Table of Contents
 
 ### Chapter 0: Introduction
-- [] Whom Is This Book For?
-- [] Conventions
-- [] What Is Programming?
-- [] About This Book
-- [] Downloading and Installing Python
-- [] Starting IDLE
-- [] How to Find Help
-- [] Asking Smart Programming Questions
-- [] Summary
+- [ ] Whom Is This Book For?
+- [ ] Conventions
+- [ ] What Is Programming?
+- [ ] About This Book
+- [ ] Downloading and Installing Python
+- [ ] Starting IDLE
+- [ ] How to Find Help
+- [ ] Asking Smart Programming Questions
+- [ ] Summary
 
 ------------
 
 ## Part 1 - The Basics of Python Programming
 ### Chapter 1: Python Basics
-- [] Entering Expressions into the Interactive Shell
-- [] The Integer, Floating-Point, and String Data Types
-- [] String Concatenation and Replication
-- [] Storing Values in Variables
-- [] Your First Program
-- [] Dissecting Your Program
-- [] Summary
-- [] Practice Questions
+- [ ] Entering Expressions into the Interactive Shell
+- [ ] The Integer, Floating-Point, and String Data Types
+- [ ] String Concatenation and Replication
+- [ ] Storing Values in Variables
+- [ ] Your First Program
+- [ ] Dissecting Your Program
+- [ ] Summary
+- [ ] Practice Questions
 
 ### Chapter 2: Flow Control
-- [] Boolean Values
-- [] Comparison Operators
-- [] Boolean Operators
-- [] Mixing Boolean and Comparison Operators
-- [] Elements of Flow Control
-- [] Program Execution
-- [] Flow COntrol Statements
-- [] Importing Modules
-- [] Summary
-- [] Practise Questions
+- [ ] Boolean Values
+- [ ] Comparison Operators
+- [ ] Boolean Operators
+- [ ] Mixing Boolean and Comparison Operators
+- [ ] Elements of Flow Control
+- [ ] Program Execution
+- [ ] Flow COntrol Statements
+- [ ] Importing Modules
+- [ ] Summary
+- [ ] Practise Questions
 
 ### Chapter 3: Functions
-- [] def Statements with Parameters
-- [] Return Values and Return Statements
-- [] The None Value
-- [] Keyword Arguments
-- [] Local and Global Scope
-- [] The Global Statement
-- [] Exception Handling
-- [] A short Program: Guess the number
-- [] Summary
-- [] Practise Questions
-- [] Practise Project: Collatz Sequence
+- [ ] def Statements with Parameters
+- [ ] Return Values and Return Statements
+- [ ] The None Value
+- [ ] Keyword Arguments
+- [ ] Local and Global Scope
+- [ ] The Global Statement
+- [ ] Exception Handling
+- [ ] A short Program: Guess the number
+- [ ] Summary
+- [ ] Practise Questions
+- [ ] Practise Project: Collatz Sequence
 
 ### Chapter 4: Lists
-- [] The List Data Type
-- [] Working with Lists
-- [] Augmented Assignment Operator
-- [] Methods
-- [] Example Program: Magic 8 Ball with a list
-- [] List-like Types: Strings and Tuples
-- [] References
-- [] Summary
-- [] Practice Project: Comma Code
-- [] Practice Project: Character Picture Grid
+- [ ] The List Data Type
+- [ ] Working with Lists
+- [ ] Augmented Assignment Operator
+- [ ] Methods
+- [ ] Example Program: Magic 8 Ball with a list
+- [ ] List-like Types: Strings and Tuples
+- [ ] References
+- [ ] Summary
+- [ ] Practice Project: Comma Code
+- [ ] Practice Project: Character Picture Grid
 
 ### Chapter 5: Dictionaries and Structuring Data
-- [] The Dictionary Data Type
-- [] Pretty Printing
-- [] Using Data Structures to Model Real-World Things
-- [] Summary
-- [] Practise Questions
-- [] Practice Project: Fantasy Game Inventory
+- [ ] The Dictionary Data Type
+- [ ] Pretty Printing
+- [ ] Using Data Structures to Model Real-World Things
+- [ ] Summary
+- [ ] Practise Questions
+- [ ] Practice Project: Fantasy Game Inventory
 
 ### Chapter 6: Manipulating Strings
-- [] Working with Strings
-- [] Useful String Methods
-- [] Project: Secret Password Locker
-- [] Project: Adding Bullets to a Wiki Mark-up
-- [] Summary
-- [] Practise Questions
-- [] Practise Project: Table Printer
+- [ ] Working with Strings
+- [ ] Useful String Methods
+- [ ] Project: Secret Password Locker
+- [ ] Project: Adding Bullets to a Wiki Mark-up
+- [ ] Summary
+- [ ] Practise Questions
+- [ ] Practise Project: Table Printer
 
 ------------
 
 ## Part 2 - Automating Tasks
 ### Chapter 7: Pattern Matching with Regular Expressions
-- [] Finding Patterns of Text Without Regular Expressions
-- [] Finding Patterns of Text Without Regular Expressions
-- [] More Pattern Matching with Regular Expressions
-- [] Greedy and Non-Greedy Matching
-- [] The Findall() Method
-- [] Character Classes
-- [] Making Your Own Character Classes
-- [] The Caret and Dollar Sign Characters
-- [] The Wildcard Character
-- [] Review ofRegex Symbols
-- [] Case Insensitive Matching
-- [] Substituting Strings with the sub() Method
-- [] Managing Complex Regexes
-- [] Combining re.IOGNORECASE, re.DOTALL and re.VERBOSE
-- [] Project: Phone Number and Email Address Extractor
-- [] Summary
-- [] Practise Questions
+- [ ] Finding Patterns of Text Without Regular Expressions
+- [ ] Finding Patterns of Text Without Regular Expressions
+- [ ] More Pattern Matching with Regular Expressions
+- [ ] Greedy and Non-Greedy Matching
+- [ ] The Findall() Method
+- [ ] Character Classes
+- [ ] Making Your Own Character Classes
+- [ ] The Caret and Dollar Sign Characters
+- [ ] The Wildcard Character
+- [ ] Review ofRegex Symbols
+- [ ] Case Insensitive Matching
+- [ ] Substituting Strings with the sub() Method
+- [ ] Managing Complex Regexes
+- [ ] Combining re.IOGNORECASE, re.DOTALL and re.VERBOSE
+- [ ] Project: Phone Number and Email Address Extractor
+- [ ] Summary
+- [ ] Practise Questions
 
 ### Chapter 8: Reading and Writing Files
-- [] File and File Paths
-- [] The os.path Module
-- [] The File Reading/Writing Process
-- [] Saving Variables with the Shelve Method
-- [] Saving Variables with the pprint.pformat() Function
-- [] Project: Generating Random Quiz Files
-- [] Project: Multiclipboard
-- [] Summary
-- [] Practise Questions
+- [ ] File and File Paths
+- [ ] The os.path Module
+- [ ] The File Reading/Writing Process
+- [ ] Saving Variables with the Shelve Method
+- [ ] Saving Variables with the pprint.pformat() Function
+- [ ] Project: Generating Random Quiz Files
+- [ ] Project: Multiclipboard
+- [ ] Summary
+- [ ] Practise Questions
 
 ### Chapter 9: Organizing Files
-- [] The shutil Module
-- [] Walking a Directory Tree
-- [] Compressing Files with the zipfile Module
-- [] Project: Renaming Files with American-Style Dates to European-Style Dates
-- [] Project: Backing up a Folder into a ZIP File
-- [] Summary
-- [] Practise Questions
+- [ ] The shutil Module
+- [ ] Walking a Directory Tree
+- [ ] Compressing Files with the zipfile Module
+- [ ] Project: Renaming Files with American-Style Dates to European-Style Dates
+- [ ] Project: Backing up a Folder into a ZIP File
+- [ ] Summary
+- [ ] Practise Questions
 
 ### Chapter 10: Debugging
-- [] Raising Exceptions
-- [] Getting Traceback as String
-- [] Assertions
-- [] Logging
-- [] IDLEs Debugger
-- [] Summary
-- [] Practise Questions
+- [ ] Raising Exceptions
+- [ ] Getting Traceback as String
+- [ ] Assertions
+- [ ] Logging
+- [ ] IDLEs Debugger
+- [ ] Summary
+- [ ] Practise Questions
 
 ### Chapter 11: Web Scraping
-- [] Project: mapIt with the webbrowser module
-- [] Downloading Files from the Web with request Module
-- [] Saving Downloaded Files to the Hard Drive
-- [] HTML
-- [] Parsing HTML with BeatifulSoup Module
-- [] Project: Im Feeling lucky Google Search
-- [] Project: Downloading All XKCD Comics
-- [] Controlling the Browser with the Selinium Module
-- [] Summary
-- [] Practise Questions
+- [ ] Project: mapIt with the webbrowser module
+- [ ] Downloading Files from the Web with request Module
+- [ ] Saving Downloaded Files to the Hard Drive
+- [ ] HTML
+- [ ] Parsing HTML with BeatifulSoup Module
+- [ ] Project: Im Feeling lucky Google Search
+- [ ] Project: Downloading All XKCD Comics
+- [ ] Controlling the Browser with the Selinium Module
+- [ ] Summary
+- [ ] Practise Questions
 
 ### Chapter 12: Working with Excel Spreadsheets
-- [] Excel Documents
-- [] Installing the openpyxl Module
-- [] Reading Excel Documents
-- [] Opening Excel Documents with OpenPyXL
-- [] Getting Sheets from the Workbook
-- [] Getting Cells from the Sheets
-- [] Converting Between Column Letters and Numbers
-- [] Getting Rows and Columns from the Sheets
-- [] Workbooks, Sheets, Cells
-- [] Project: Reading Data from a Spreadsheet
-- [] Writing Excel Documents
-- [] Creating and Saving Excel Documents
-- [] Creating and Removing Sheets
-- [] Writing Values to Cells
-- [] Project: Updating a Spreadsheet
-- [] Setting the Font Style of Cells
-- [] Font Objects
-- [] Formulas
-- [] Adjusting Rows and Columns
-- [] Setting Row Height and Column Width
-- [] Merging and Unmerging Cells
-- [] Freeze Panes
-- [] Charts
-- [] Summary
-- [] Practise Questions
+- [ ] Excel Documents
+- [ ] Installing the openpyxl Module
+- [ ] Reading Excel Documents
+- [ ] Opening Excel Documents with OpenPyXL
+- [ ] Getting Sheets from the Workbook
+- [ ] Getting Cells from the Sheets
+- [ ] Converting Between Column Letters and Numbers
+- [ ] Getting Rows and Columns from the Sheets
+- [ ] Workbooks, Sheets, Cells
+- [ ] Project: Reading Data from a Spreadsheet
+- [ ] Writing Excel Documents
+- [ ] Creating and Saving Excel Documents
+- [ ] Creating and Removing Sheets
+- [ ] Writing Values to Cells
+- [ ] Project: Updating a Spreadsheet
+- [ ] Setting the Font Style of Cells
+- [ ] Font Objects
+- [ ] Formulas
+- [ ] Adjusting Rows and Columns
+- [ ] Setting Row Height and Column Width
+- [ ] Merging and Unmerging Cells
+- [ ] Freeze Panes
+- [ ] Charts
+- [ ] Summary
+- [ ] Practise Questions
 
 ### Chapter 13: Working with PDF and Word Documents
-- [] PDF Documents
-- [] Decrypting PDFs
-- [] Creating PDFs
-- [] Project: Combining Select Pages from Many PDFs
-- [] Word Documents
-- [] Reading Word Documents
-- [] Getting the Full Text from a .docx File
-- [] Styling Paragraph and Run Objects
-- [] Creating Word Documents with Nondefault Styles
-- [] Run Attributes
-- [] Writing Word Documents
-- [] Adding Headings
-- [] Adding Line and Page Breaks
-- [] Adding Pictures
-- [] Summary
-- [] Practise Questions
+- [ ] PDF Documents
+- [ ] Decrypting PDFs
+- [ ] Creating PDFs
+- [ ] Project: Combining Select Pages from Many PDFs
+- [ ] Word Documents
+- [ ] Reading Word Documents
+- [ ] Getting the Full Text from a .docx File
+- [ ] Styling Paragraph and Run Objects
+- [ ] Creating Word Documents with Nondefault Styles
+- [ ] Run Attributes
+- [ ] Writing Word Documents
+- [ ] Adding Headings
+- [ ] Adding Line and Page Breaks
+- [ ] Adding Pictures
+- [ ] Summary
+- [ ] Practise Questions
 
 ### Chapter 14: Working with CSV Files and JSON Data
-- [] The CSV Module
-- [] Reader Objects
-- [] Reading Data from Reader Objects in a for Loop
-- [] Writer Objects
-- [] The delimiter and lineterminator Keyword Arguments
-- [] Project: Removing the Header from CSV Files
-- [] JSON and APIs
-- [] The JSON Module
-- [] Project: Fetching Current Weather Data
-- [] Summary
-- [] Practise Questions
+- [ ] The CSV Module
+- [ ] Reader Objects
+- [ ] Reading Data from Reader Objects in a for Loop
+- [ ] Writer Objects
+- [ ] The delimiter and lineterminator Keyword Arguments
+- [ ] Project: Removing the Header from CSV Files
+- [ ] JSON and APIs
+- [ ] The JSON Module
+- [ ] Project: Fetching Current Weather Data
+- [ ] Summary
+- [ ] Practise Questions
 
 ### Chapter 15: Time, Scheduling Tasks, and Launching Programs
-- [] The time Module
-- [] Project: Super Stopwatch
-- [] The datetime Module
-- [] The timedelta Data Type
-- [] Review of Python’s Time Functions
-- [] Multithreading
-- [] Passing Arguments to the Thread’s Target Function
-- [] Project: Multithreaded XKCD Downloader
-- [] Launching Other Programs from Python
-- [] Passing Command Line Arguments to Popen()
-- [] Task Scheduler, launchd, and cron
-- [] Opening Websites with Python
-- [] Running Other Python Scripts
-- [] Opening Files with Default Applications
-- [] Project: Simple Countdown Program
-- [] Summary
-- [] Practise Questions
+- [ ] The time Module
+- [ ] Project: Super Stopwatch
+- [ ] The datetime Module
+- [ ] The timedelta Data Type
+- [ ] Review of Python’s Time Functions
+- [ ] Multithreading
+- [ ] Passing Arguments to the Thread’s Target Function
+- [ ] Project: Multithreaded XKCD Downloader
+- [ ] Launching Other Programs from Python
+- [ ] Passing Command Line Arguments to Popen()
+- [ ] Task Scheduler, launchd, and cron
+- [ ] Opening Websites with Python
+- [ ] Running Other Python Scripts
+- [ ] Opening Files with Default Applications
+- [ ] Project: Simple Countdown Program
+- [ ] Summary
+- [ ] Practise Questions
 
 ### Chapter 16: Sending Email and Text Messages
 ### Chapter 17: Manipulating Images
