@@ -25,13 +25,13 @@
 - [x] Practice Questions
 
 ### Chapter 2: Flow Control
-- [ ] Boolean Values
-- [ ] Comparison Operators
-- [ ] Boolean Operators
-- [ ] Mixing Boolean and Comparison Operators
-- [ ] Elements of Flow Control
-- [ ] Program Execution
-- [ ] Flow COntrol Statements
+- [x] Boolean Values
+- [x] Comparison Operators
+- [x] Boolean Operators
+- [x] Mixing Boolean and Comparison Operators
+- [x] Elements of Flow Control
+- [x] Program Execution
+- [ ] Flow COntrol Statements <-- YOU ARE HERE - "for Loops and the range() Function"
 - [ ] Importing Modules
 - [ ] Summary
 - [ ] Practise Questions
