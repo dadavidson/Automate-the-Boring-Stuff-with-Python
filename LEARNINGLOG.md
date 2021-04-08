@@ -31,10 +31,10 @@
 - [x] Mixing Boolean and Comparison Operators
 - [x] Elements of Flow Control
 - [x] Program Execution
-- [ ] Flow COntrol Statements <-- YOU ARE HERE  "for Loops and the range() Function"
+- [ ] Flow Control Statements <-- YOU ARE HERE  "for Loops and the range() Function"
 - [ ] Importing Modules
 - [ ] Summary
-- [ ] Practise Questions
+- [ ] Practice Questions
 
 ### Chapter 3: Functions
 - [ ] def Statements with Parameters
