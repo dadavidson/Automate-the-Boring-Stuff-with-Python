@@ -47,7 +47,7 @@
 - [x] A short Program: Guess the number
 - [x] Summary
 - [x] Practice Questions
-- [ ] Practice Project: Collatz Sequence
+- [x] Practice Project: Collatz Sequence
 
 ### Chapter 4: Lists
 - [ ] The List Data Type
