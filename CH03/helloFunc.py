@@ -1,7 +1,11 @@
-# Function that takes an argument and saves it in teh parameter
+#!/bin/python3
 
-def hello(name):
-    print('Hello ' + name)
 
-hello('Alice')
-hello('Bob')
+def hello():
+    print('Howdy!')
+    print('Howdy!!!')
+    print('Hello there.')
+
+hello()
+hello()
+hello()
