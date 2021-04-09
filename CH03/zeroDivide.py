@@ -1,12 +1,26 @@
+#!/bin/python3
+
+
 # handles exceptions
 
-def spam(divideBy):
-  try:
-    return 42 / divideBy
-  except ZeroDivisionError:
-    print('Error: Invalid argument.')
+# def spam(divideBy):
+#   try:
+#     return 42 / divideBy
+#   except ZeroDivisionError:
+#     print('Error: Invalid argument.')
 
-print(spam(2))
-print(spam(12))
-print(spam(0))
-print(spam(1))
+# print(spam(2))
+# print(spam(12))
+# print(spam(0))
+# print(spam(1))
+
+def spam(divideBy):
+  return 42 / divideBy
+
+try:
+  print(spam(2))
+  print(spam(12))
+  print(spam(0))
+  print(spam(1)) # Never gets executed
+except ZeroDivisionError:
+  print('Error: Invalid argument.')
