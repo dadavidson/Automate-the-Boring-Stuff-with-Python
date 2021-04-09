@@ -1,10 +1,13 @@
+#!/bin/python3
+
 import random
+
 
 def getAnswer(answerNumber):
     if answerNumber == 1:
-       return 'It is certain'
+        return 'It is certain'
     elif answerNumber == 2:
-        return 'It is decidely decidedly so'
+        return 'It is decidely so'
     elif answerNumber == 3:
         return 'Yes'
     elif answerNumber == 4:
@@ -20,9 +23,9 @@ def getAnswer(answerNumber):
     elif answerNumber == 9:
         return 'Very doubtful'
 
-# you could shorten these lines of code - refer to line 29
-# r = random.randint(1, 9)
-# fortune = getAnswer(r)
-# print(fortune)
+r = random.randint(1, 9)
+fortune = getAnswer(r)
+print(fortune)
 
-print(getAnswer(random.randint(1,9)))
+# This is the single line equivalent
+# print(getAnswer(random.randint(1, 9)))

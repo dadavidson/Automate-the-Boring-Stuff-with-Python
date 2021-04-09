@@ -1,3 +1,5 @@
+#!/bin/python3
+
 # Demonstrates the consequence of using the same name for teh global and local scope
 def spam():
     eggs = 'spam local'
