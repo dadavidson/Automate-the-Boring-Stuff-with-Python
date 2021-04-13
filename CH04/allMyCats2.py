@@ -1,3 +1,5 @@
+#!/bin/env python3
+
 # Start with empty list
 catNames = []
 
