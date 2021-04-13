@@ -2,7 +2,7 @@
 ## Practical Programming for Total Beginners
 
 These are my notes from working through the book
-[*Automate the boring Stuff*](https://automatetheboringstuff.com/)
+[*Automate the Boring Stuff with Python*](https://automatetheboringstuff.com/)
 by Al Sweigart and published in 2015.
 
 ### Synopsis taken from the book.
