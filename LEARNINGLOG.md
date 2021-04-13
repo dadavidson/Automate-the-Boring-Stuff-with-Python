@@ -50,9 +50,9 @@
 - [x] Practice Project: Collatz Sequence
 
 ### Chapter 4: Lists
-- [ ] The List Data Type
-- [ ] Working with Lists
-- [ ] Augmented Assignment Operator
+- [x] The List Data Type
+- [x] Working with Lists
+- [x] Augmented Assignment Operator
 - [ ] Methods
 - [ ] Example Program: Magic 8 Ball with a list
 - [ ] List-like Types: Strings and Tuples
