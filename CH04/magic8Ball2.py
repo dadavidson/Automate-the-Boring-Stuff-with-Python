@@ -1,3 +1,5 @@
+#!/bin/env python3
+
 # Similar to the file in chapter 3, however a list is used.
 import random
 
@@ -11,4 +13,5 @@ messages = ['It is certain',
     'Outlook not so good',
     'Very doubtful']
 
-print(messages[random.randint(0, len(messages) - 1)])
+# print(messages[random.randint(0, len(messages) - 1)])
+print(random.choice(messages)) # Cleaner and shorter
